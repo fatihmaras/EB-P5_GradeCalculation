@@ -1,0 +1,15 @@
+D:\Projeler\GitHub\EnesBayram\EB-P5_GradeCalculation\EB-P5_GradeCalculation\bin\Debug\net6.0\EB-P5_GradeCalculation.exe
+D:\Projeler\GitHub\EnesBayram\EB-P5_GradeCalculation\EB-P5_GradeCalculation\bin\Debug\net6.0\EB-P5_GradeCalculation.deps.json
+D:\Projeler\GitHub\EnesBayram\EB-P5_GradeCalculation\EB-P5_GradeCalculation\bin\Debug\net6.0\EB-P5_GradeCalculation.runtimeconfig.json
+D:\Projeler\GitHub\EnesBayram\EB-P5_GradeCalculation\EB-P5_GradeCalculation\bin\Debug\net6.0\EB-P5_GradeCalculation.dll
+D:\Projeler\GitHub\EnesBayram\EB-P5_GradeCalculation\EB-P5_GradeCalculation\bin\Debug\net6.0\EB-P5_GradeCalculation.pdb
+D:\Projeler\GitHub\EnesBayram\EB-P5_GradeCalculation\EB-P5_GradeCalculation\obj\Debug\net6.0\EB-P5_GradeCalculation.csproj.AssemblyReference.cache
+D:\Projeler\GitHub\EnesBayram\EB-P5_GradeCalculation\EB-P5_GradeCalculation\obj\Debug\net6.0\EB-P5_GradeCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\GitHub\EnesBayram\EB-P5_GradeCalculation\EB-P5_GradeCalculation\obj\Debug\net6.0\EB-P5_GradeCalculation.AssemblyInfoInputs.cache
+D:\Projeler\GitHub\EnesBayram\EB-P5_GradeCalculation\EB-P5_GradeCalculation\obj\Debug\net6.0\EB-P5_GradeCalculation.AssemblyInfo.cs
+D:\Projeler\GitHub\EnesBayram\EB-P5_GradeCalculation\EB-P5_GradeCalculation\obj\Debug\net6.0\EB-P5_GradeCalculation.csproj.CoreCompileInputs.cache
+D:\Projeler\GitHub\EnesBayram\EB-P5_GradeCalculation\EB-P5_GradeCalculation\obj\Debug\net6.0\EB-P5_GradeCalculation.dll
+D:\Projeler\GitHub\EnesBayram\EB-P5_GradeCalculation\EB-P5_GradeCalculation\obj\Debug\net6.0\refint\EB-P5_GradeCalculation.dll
+D:\Projeler\GitHub\EnesBayram\EB-P5_GradeCalculation\EB-P5_GradeCalculation\obj\Debug\net6.0\EB-P5_GradeCalculation.pdb
+D:\Projeler\GitHub\EnesBayram\EB-P5_GradeCalculation\EB-P5_GradeCalculation\obj\Debug\net6.0\EB-P5_GradeCalculation.genruntimeconfig.cache
+D:\Projeler\GitHub\EnesBayram\EB-P5_GradeCalculation\EB-P5_GradeCalculation\obj\Debug\net6.0\ref\EB-P5_GradeCalculation.dll

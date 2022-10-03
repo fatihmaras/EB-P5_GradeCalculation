@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EB-P5_GradeCalculation/1.0.0": {
+        "runtime": {
+          "EB-P5_GradeCalculation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EB-P5_GradeCalculation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
